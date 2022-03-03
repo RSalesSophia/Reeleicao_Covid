@@ -2,7 +2,7 @@
 
 Esse repositório possui uma página em formato *html* com a discussão e os resultados do problema, *jupyter notebook* em R da manipulação de dados e as bases utilizadas.
 
-Segue-se o link da página: https://rsalessophia.github.io/Reeleicao_Covid/
+Segue-se o link da página: https://rsalessophia.github.io/reeleicao_covid/
 
 
 ###  1. Problema
